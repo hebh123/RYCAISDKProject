@@ -1,0 +1,6 @@
+framework module RYCAIFramework {
+  umbrella header "RYCAIFramework.h"
+
+  export *
+  module * { export * }
+}
